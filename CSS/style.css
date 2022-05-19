@@ -1,0 +1,14 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+#tryAgain{
+    margin-left:780px;
+    margin-top: 50px;
+    background: #15b656;
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+    color: ghostwhite;
+    visibility: hidden;
+}
